@@ -1,6 +1,8 @@
+![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQGFEGqP1lemJQ/profile-displaybackgroundimage-shrink_200_800/B4EZo_3HxKHUAU-/0/1762008007837?e=1763596800&v=beta&t=exhU_Qv4IiFDt7nR3zf3eRWNFcpS1Hbw2gpnGGBxVGY)
+
+
 ### Hi there 👋, I'm Ashiuqul islam
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQGFEGqP1lemJQ/profile-displaybackgroundimage-shrink_200_800/B4EZo_3HxKHUAU-/0/1762008007837?e=1763596800&v=beta&t=exhU_Qv4IiFDt7nR3zf3eRWNFcpS1Hbw2gpnGGBxVGY)
 
 I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and JavaScript, dedicated to creating modern, responsive, and user-friendly web interfaces. I love turning creative ideas into smooth, interactive digital experiences with clean and efficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
 
@@ -17,5 +19,4 @@ Skills: REACT / JS / HTML / CSS / TAILWINDS / BOOTSTRAP / FIREBASE
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ashiqul290)](https://github.com/anuraghazra/github-readme-stats)
 
