@@ -6,7 +6,7 @@
 
 I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and JavaScript, dedicated to creating modern, responsive, and user-friendly web interfaces. I love turning creative ideas into smooth, interactive digital experiences with clean and efficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
 
-Skills: REACT / JS / HTML / CSS / TAILWINDS / BOOTSTRAP / FIREBASE
+Skills: REACT / JS / HTML / CSS / TAILWINDS / BOOTSTRAP / FIREBASE / Next.js
 
 - 🔭 I’m currently working on Building responsive web projects using React.js and Tailwind CSS 
 - 🌱 I’m currently learning Node.js (for backend integration) 
