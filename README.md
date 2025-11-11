@@ -12,13 +12,6 @@ I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and Jav
 - 🤔 I’m looking for help with Improving backend skills and full-stack development 
 - 💬 Ask me about React.js, JavaScript, Tailwind CSS, and frontend design 
 
-<div align="center">
-  
- <a href='https://www.linkedin.com/in/ashiqul-islam-27a76a387/'> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
- <a href='https://www.facebook.com/ashikul.islam.15197/'> <img src="https://img.shields.io/static/v1?message=Facbook&logo=Facbook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
- <a href='https://www.upwork.com/freelancers/~0195ae40098e4cdd65'> <img src="https://img.shields.io/static/v1?message=Upwork&logo=discord&label=&color=050505&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> </a>
- <a href='https://www.fiverr.com/sellers/ashiqul11/edit'> <img src="https://img.shields.io/static/v1?message=Fiver&logo=twitch&label=&color=5fd406&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /> </a>
-</div>
 
  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
@@ -35,6 +28,13 @@ I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and Jav
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
+</div>
+<div align="center">
+  
+ <a href='https://www.linkedin.com/in/ashiqul-islam-27a76a387/'> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
+ <a href='https://www.facebook.com/ashikul.islam.15197/'> <img src="https://img.shields.io/static/v1?message=Facbook&logo=Facbook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
+ <a href='https://www.upwork.com/freelancers/~0195ae40098e4cdd65'> <img src="https://img.shields.io/static/v1?message=Upwork&logo=discord&label=&color=050505&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> </a>
+ <a href='https://www.fiverr.com/sellers/ashiqul11/edit'> <img src="https://img.shields.io/static/v1?message=Fiver&logo=twitch&label=&color=5fd406&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /> </a>
 </div>
 
 
