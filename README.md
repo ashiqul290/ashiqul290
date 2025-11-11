@@ -6,7 +6,29 @@
 
 I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and JavaScript, dedicated to creating modern, responsive, and user-friendly web interfaces. I love turning creative ideas into smooth, interactive digital experiences with clean and efficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
 
-Skills: REACT / JS / HTML / CSS / TAILWINDS / BOOTSTRAP / FIREBASE / Next.js
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+</div>
+
+.
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Upwork&logo=discord&label=&color=050505&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Fiver&logo=twitch&label=&color=5fd406&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+</div>
 
 - 🔭 I’m currently working on Building responsive web projects using React.js and Tailwind CSS 
 - 🌱 I’m currently learning Node.js (for backend integration) 
