@@ -33,7 +33,7 @@ I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and Jav
 
 
 
-<div align="center">
+<div align="center" margin="10">
   
  <a href='https://www.linkedin.com/in/ashiqul-islam-27a76a387/'> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
  <a href='https://www.facebook.com/ashikul.islam.15197/'> <img src="https://img.shields.io/static/v1?message=Facbook&logo=Facbook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
