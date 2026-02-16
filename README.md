@@ -1,4 +1,4 @@
-![Web Developer]([https://media.licdn.com/dms/image/v2/D4E16AQGFEGqP1lemJQ/profile-displaybackgroundimage-shrink_200_800/B4EZo_3HxKHUAU-/0/1762008007837?e=1763596800&v=beta&t=exhU_Qv4IiFDt7nR3zf3eRWNFcpS1Hbw2gpnGGBxVGY](https://www.linkedin.com/in/ashiqul-islam-27a76a387/](https://media.licdn.com/dms/image/v2/D4E16AQGFEGqP1lemJQ/profile-displaybackgroundimage-shrink_200_800/B4EZo_3HxKHUAU-/0/1762008007837?e=1766620800&v=beta&t=y-d0wbmvmliR5kgZ9qt1YrF2u_MObEzMOrf7ckwhE2A)))
+![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQGFEGqP1lemJQ/profile-displaybackgroundimage-shrink_350_1400/B4EZo_3HxKHUAY-/0/1762008007837?e=1772668800&v=beta&t=sPEG2aORYxriNX5dd-QK-zbhfYyzywv91SSu0aCu01A)
 
 
 ### Hi there 👋, I'm Ashiuqul islam
