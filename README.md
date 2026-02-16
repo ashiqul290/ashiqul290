@@ -8,11 +8,13 @@ I’m a passionate MERN Stack Developer specializing in building modern, scalabl
 
 I create responsive and interactive user interfaces with React.js and Tailwind CSS, while developing secure RESTful APIs and backend systems with Node.js and Express.js. My goal is to build complete, production-ready applications with clean architecture, optimized performance, and seamless user experience.ficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
 
-#### 💻 Tech Stack
-• Frontend: React.js, Next.js, JavaScript (ES6+), Tailwind CSS
-• Backend: Node.js, Express.js
-• Database: MongoDB (Mongoose)
-• Other Tools: Git, GitHub, REST API, JWT Authentication
+#### 💻 Tech Stack  
+
+- 🚀 **Frontend:** React.js | Next.js | JavaScript (ES6+) | Tailwind CSS  
+- 🔧 **Backend:** Node.js | Express.js  
+- 🗄 **Database:** MongoDB (Mongoose)  
+- ⚙ **Tools & Auth:** Git | GitHub | REST APIs | JWT  
+
 
 
 #### 🔥 What I’m Doing Now
