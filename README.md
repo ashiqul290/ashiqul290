@@ -2,15 +2,24 @@
 
 
 ### Hi there 👋, I'm Ashiuqul islam
-#### Web Developer
+#### MERN Stack Developer
 
-I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and JavaScript, dedicated to creating modern, responsive, and user-friendly web interfaces. I love turning creative ideas into smooth, interactive digital experiences with clean and efficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
+I’m a passionate MERN Stack Developer specializing in building modern, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
 
-- 🔭 I’m currently working on Building responsive web projects using React.js and Tailwind CSS 
-- 🌱 I’m currently learning Node.js (for backend integration) 
-- 👯 I’m looking to collaborate on Frontend projects and open-source web apps 
-- 🤔 I’m looking for help with Improving backend skills and full-stack development 
-- 💬 Ask me about React.js, JavaScript, Tailwind CSS, and frontend design 
+I create responsive and interactive user interfaces with React.js and Tailwind CSS, while developing secure RESTful APIs and backend systems with Node.js and Express.js. My goal is to build complete, production-ready applications with clean architecture, optimized performance, and seamless user experience.ficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
+
+#### 💻 Tech Stack
+• Frontend: React.js, Next.js, JavaScript (ES6+), Tailwind CSS
+• Backend: Node.js, Express.js
+• Database: MongoDB (Mongoose)
+• Other Tools: Git, GitHub, REST API, JWT Authentication
+
+
+#### 🔥 What I’m Doing Now
+- 🔭 Building full-stack MERN projects with authentication and API integration
+- 🌱 Improving backend logic, database schema design & security practices
+- 🚀 Learning deployment (Vercel, Render, MongoDB Atlas)
+- 👯 Open to collaborating on MERN Stack & open-source projects
 
 
  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
@@ -39,5 +48,10 @@ I’m a passionate Frontend Developer skilled in React.js, Tailwind CSS, and Jav
  <a href='https://www.facebook.com/ashikul.islam.15197/'> <img src="https://img.shields.io/static/v1?message=Facbook&logo=Facbook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
 </div>
 
+###  📫 Connect With Me
+
+📧 Email: ashiquldeveloper11@gmail.com 
+💼 LinkedIn: [https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/ashiqul-islam-27a76a387/) 
+🌐 Portfolio: [https://yourportfolio.com ](https://my-protfolio-website-2jr9.vercel.app/) 
 
 
