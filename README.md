@@ -25,9 +25,13 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 
  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+### Hi there 👋, I'm Ashiqul Islam
+#### MERN Stack Developer
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Learning+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60">
 </p>
+
 
 <div align="center">
 
