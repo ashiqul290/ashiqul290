@@ -1,11 +1,9 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHxWE64UMyP3Q/profile-displaybackgroundimage-shrink_350_1400/B56Zxk1h1SH0Ac-/0/1771218282485?e=1772668800&v=beta&t=gdVWHZkUH0zUVKyjP2xehraAPEmYSv5Kq5j_dXjIzrE)
 
 
-# Hi there 👋, I'm Ashiuqul islam
+## Hi there 👋, I'm Ashiuqul islam
+### MERN Stack Developer
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Developer" alt="Typing SVG" /></a>
-</div>
 I’m a passionate MERN Stack Developer specializing in building modern, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
 
 I create responsive and interactive user interfaces with React.js and Tailwind CSS, while developing secure RESTful APIs and backend systems with Node.js and Express.js. My goal is to build complete, production-ready applications with clean architecture, optimized performance, and seamless user experience.ficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
@@ -31,7 +29,6 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 <div align="center">
 
   <!-- Frontend -->
-  <h3>🎨 Frontend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
@@ -49,9 +46,6 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
 
   <br>
-
-  <!-- Backend -->
-  <h3>⚙️ Backend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
@@ -60,14 +54,9 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
   <br>
 
-  <!-- Database -->
-  <h3>🗄️ Database</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
 
   <br>
-
-  <!-- Tools -->
-  <h3>🛠️ Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
