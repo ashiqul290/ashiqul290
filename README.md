@@ -1,9 +1,11 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHxWE64UMyP3Q/profile-displaybackgroundimage-shrink_350_1400/B56Zxk1h1SH0Ac-/0/1771218282485?e=1772668800&v=beta&t=gdVWHZkUH0zUVKyjP2xehraAPEmYSv5Kq5j_dXjIzrE)
 
 
-### Hi there 👋, I'm Ashiuqul islam
-#### MERN Stack Developer
+# Hi there 👋, I'm Ashiuqul islam
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Developer" alt="Typing SVG" /></a>
+</div>
 I’m a passionate MERN Stack Developer specializing in building modern, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
 
 I create responsive and interactive user interfaces with React.js and Tailwind CSS, while developing secure RESTful APIs and backend systems with Node.js and Express.js. My goal is to build complete, production-ready applications with clean architecture, optimized performance, and seamless user experience.ficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
