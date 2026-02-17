@@ -52,8 +52,8 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 ###  📫 Connect With Me
 
-📧 Email: ashiquldeveloper11@gmail.com 
-💼 LinkedIn: [https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/ashiqul-islam-27a76a387/) 
+📧 Email: ashiquldeveloper11@gmail.com <br>
+💼 LinkedIn: [https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/ashiqul-islam-27a76a387/) <br>
 🌐 Portfolio: [https://yourportfolio.com ](https://my-protfolio-website-2jr9.vercel.app/) 
 
 
