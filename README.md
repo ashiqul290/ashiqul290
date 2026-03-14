@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFxowUys5dirA/profile-displaybackgroundimage-shrink_350_1400/B56ZyMvbtmIgAc-/0/1771887772335?e=1773273600&v=beta&t=NPAexDQiK99XLyKH8PwoksP2XUlFhstORdTVWrVqR_4)
+![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFxowUys5dirA/profile-displaybackgroundimage-shrink_350_1400/B56ZyMvbtmIgAc-/0/1771887772335?e=1775088000&v=beta&t=oJrs-QRvZ53k2iY1Q4viTfYsQ5rZ9BNZcf9FDb2ZGYo)
 
 
 ## Hi there 👋, I'm Ashiuqul islam
@@ -85,6 +85,6 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 📧 Email: ashiquldeveloper11@gmail.com <br>
 💼 LinkedIn: [https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/ashiqul-islam-27a76a387/) <br>
-🌐 Portfolio: [https://yourportfolio.com ](https://my-protfolio-website-2jr9.vercel.app/) 
+🌐 Portfolio: [https://yourportfolio.com ](https://ashiqul.vercel.app/) 
 
 
