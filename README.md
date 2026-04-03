@@ -14,9 +14,13 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
+
+# 👨‍💻 About Me
+
 I’m a passionate MERN Stack Developer specializing in building modern, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
 
 I create responsive and interactive user interfaces with React.js and Tailwind CSS, while developing secure RESTful APIs and backend systems with Node.js and Express.js. My goal is to build complete, production-ready applications with clean architecture, optimized performance, and seamless user experience.ficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
+
 
 #### 💻 Tech Stack  
 
