@@ -127,13 +127,5 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dipokdas347250&color=blue">
-</p>
-
----
-
-<p align="center">
-
-##⭐ Thanks for visiting my profile!
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=⭐%20Thanks%20for%20visiting%20my%20profile!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
