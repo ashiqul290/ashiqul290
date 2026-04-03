@@ -22,12 +22,12 @@ I’m a passionate MERN Stack Developer specializing in building modern, scalabl
 I create responsive and interactive user interfaces with React.js and Tailwind CSS, while developing secure RESTful APIs and backend systems with Node.js and Express.js. My goal is to build complete, production-ready applications with clean architecture, optimized performance, and seamless user experience.ficient code. I always focus on performance, design consistency, and delivering pixel-perfect results that enhance user engagement.
 
 
-#### 💻 Tech Stack  
+# 🧠 Tech Stack 
 
-- 🚀 **Frontend:** React.js | Next.js | JavaScript (ES6+) | Tailwind CSS  
-- 🔧 **Backend:** Node.js | Express.js  
-- 🗄 **Database:** MongoDB (Mongoose)  
-- ⚙ **Tools & Auth:** Git | GitHub | REST APIs | JWT  
+🚀 **Frontend:** React.js | Next.js | JavaScript (ES6+) | Tailwind CSS | TypeScript 
+🔧 **Backend:** Node.js | Express.js  
+🗄 **Database:** MongoDB (Mongoose)  
+⚙ **Tools & Auth:** Git | GitHub | REST APIs | JWT  
 
 
 
@@ -86,14 +86,38 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 </div>
 
 
+# 🔥 GitHub Streak
 
-<div height='40'>-</div>
+<p align="center">
 
-<div align="center">
-  
- <a href='https://www.linkedin.com/in/ashiqul-islam-27a76a387/'> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
- <a href='https://www.facebook.com/ashikul.islam.15197/'> <img src="https://img.shields.io/static/v1?message=Facbook&logo=Facbook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> </a>
-</div>
+<img src="https://streak-stats.demolab.com?user=ashiqul290&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashiqul290&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+
+
 
 ###  📫 Connect With Me
 
