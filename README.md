@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=Dipok%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=Ashiqul%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center"> Hi there 👋, I'm Ashiuqul islam</h1>
@@ -7,7 +7,7 @@
 <h3 align="center">MERN Stack Developer | React.js Developer | Node.js Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Developer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
 </p>
 
 <p align="center">
