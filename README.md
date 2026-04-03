@@ -1,8 +1,18 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFxowUys5dirA/profile-displaybackgroundimage-shrink_350_1400/B56ZyMvbtmIgAc-/0/1771887772335?e=1775088000&v=beta&t=oJrs-QRvZ53k2iY1Q4viTfYsQ5rZ9BNZcf9FDb2ZGYo)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=Dipok%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
+<h1 align="center"> Hi there 👋, I'm Ashiuqul islam</h1>
 
-## Hi there 👋, I'm Ashiuqul islam
-### MERN Stack Developer
+<h3 align="center">MERN Stack Developer | React.js Developer | Node.js Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
 I’m a passionate MERN Stack Developer specializing in building modern, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
 
