@@ -121,27 +121,22 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 # 🌐 Connect With Me  
 
-<p align="center">
-  <a href="mailto:ashiquldeveloper11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://ashiqul.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ashiqul-islam-27a76a387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://wa.me/8801618532116?text=Hello%20Ashiqul,%20I%20found%20you%20on%20GitHub!">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  
-  <a href="https://www.facebook.com/ashikul.islam.15197">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+📧 Email <br>
+ashiquldeveloper11@gmail.com <br>
+
+💼 LinkedIn <br>
+[https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/ashiqul-islam-27a76a387/) <br>
+
+🌐 Portfolio <br>
+[https://yourportfolio.com ](https://ashiqul.vercel.app/)  <br>
+
+💬 WhatsApp  <br>
+[01618532116 ]( https://wa.me/8801618532116?text=Hello%20Ashiqul,%20I%20found%20you%20on%20GitHub!)   <br>
+
+📘 Facebook  <br>
+[https://www.facebook/ashiqul.islam.com ](https://www.facebook.com/ashikul.islam.15197)  <br>
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=⭐%20Thanks%20for%20visiting%20my%20profile!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
