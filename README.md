@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Ashiuqul islam</h1>
 
-<h3 align="center">MERN Stack Developer | React.js Developer | Node.js Developer</h3>
+<h3 align="center">Full Stack Developer(MERN) | React.js Developer | Node.js Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Developer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
