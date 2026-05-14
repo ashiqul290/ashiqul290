@@ -35,7 +35,7 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 - 🔭 Building full-stack MERN projects with authentication and API integration
 - 🌱 Improving backend logic, database schema design & security practices
 - 🚀 Learning deployment (Vercel, Render, MongoDB Atlas)
-- 👯 Open to collaborating on MERN Stack & open-source projects
+- 👯 Open to collaborating on MERN Stack & open-source projects.
 
 
  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
