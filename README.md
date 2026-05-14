@@ -33,7 +33,7 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 #### 🔥 What I’m Doing Now
 - 🔭 Building full-stack MERN projects with authentication and API integration
-- 🌱 Improving backend logic, database schema design & security practices
+- 🌱 Improving backend logic, database schema design & security practices.
 - 🚀 Learning deployment (Vercel, Render, MongoDB Atlas).
 - 👯 Open to collaborating on MERN Stack & open-source projects.
 
