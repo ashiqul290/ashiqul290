@@ -94,7 +94,7 @@ I create responsive and interactive user interfaces with React.js and Tailwind C
 
 </p>
 
----
+--
 
 # 📈 3D Contribution Graph
 
